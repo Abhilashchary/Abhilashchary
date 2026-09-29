@@ -1,182 +1,116 @@
-<!--
-  SETUP: create a PUBLIC repo named exactly  Abhilashchary  (same as your username),
-  then paste this file in as README.md. It appears on github.com/Abhilashchary.
+<!-- 
+  HOW TO USE:
+  1. On GitHub create a NEW PUBLIC repo named exactly:  Abhilashchary
+  2. Tick "Add a README file", then replace its contents with this file.
+  3. Commit. It now appears at the top of github.com/Abhilashchary
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a1128,55:15254f,100:c9a227&height=250&section=header&text=ABHILASH%20CHARY%20VADLA&fontSize=46&fontColor=f5deb3&fontAlignY=42&desc=Founder%20of%20Code%20Resol%20%C2%B7%20Full-Stack%20%C2%B7%20AI%20%C2%B7%20DSA&descSize=17&descColor=c9a227&descAlignY=64" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:5c0a0a,100:c9a227&height=230&section=header&text=ABHILASH%20CHARY%20VADLA&fontSize=44&fontColor=f5deb3&fontAlignY=38&desc=Lord%20of%20Code%20Resol%20%7C%20Keeper%20of%20the%20Repositories%20%7C%20Breaker%20of%20Bugs&descSize=16&descColor=c9a227&descAlignY=58" width="100%"/>
 
-<a href="https://abhilashchary.github.io/portfolio/">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=22&duration=3000&pause=1000&color=C9A227&center=true&vCenter=true&width=780&lines=Building+kingdoms+in+React+%2B+TypeScript+%2B+Supabase;15%2B+projects+shipped+%C2%B7+35%2B+repositories+forged;Founder+of+Code+Resol+%E2%80%94+guiding+50%2B+peers;Winter+is+coming.+So+is+my+next+deploy." alt="Typing SVG" />
+<a href="https://github.com/Abhilashchary">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=24&duration=3200&pause=900&color=C9A227&center=true&vCenter=true&width=760&lines=%E2%9A%94%EF%B8%8F+A+Commit+Always+Pays+Its+Debts;%F0%9F%90%89+Full-Stack+%C2%B7+AI%2FML+%C2%B7+Systems;%F0%9F%A6%81+LeetCode+1863+%C2%B7+Top+5.93%25;%F0%9F%90%BA+Winter+Is+Coming...+So+Is+My+Next+Deploy;%F0%9F%91%91+Founder+%26+Team+Lead+%E2%80%94+Code+Resol" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-The_Throne_Room-0a1128?style=for-the-badge&labelColor=c9a227&color=0a1128)](https://abhilashchary.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-coderesol-0a1128?style=for-the-badge&logo=linkedin&logoColor=c9a227&labelColor=0a1128&color=c9a227)](https://www.linkedin.com/in/coderesol/)
-[![LeetCode](https://img.shields.io/badge/LEETCODE-coderesol-0a1128?style=for-the-badge&logo=leetcode&logoColor=c9a227&labelColor=0a1128&color=c9a227)](https://leetcode.com/u/coderesol/)
-[![Resume](https://img.shields.io/badge/RESUME-Download-0a1128?style=for-the-badge&logo=readdotcv&logoColor=c9a227&labelColor=0a1128&color=c9a227)](https://abhilashchary.github.io/portfolio/assets/resume.pdf)
-
-![Views](https://komarev.com/ghpvc/?username=Abhilashchary&label=Visitors+to+the+Realm&color=c9a227&style=flat-square&labelColor=0a1128)
+![Realm](https://img.shields.io/badge/Realm-Hyderabad,_India-5c0a0a?style=for-the-badge&labelColor=0d1117&color=c9a227)
+![House](https://img.shields.io/badge/House-Code_Resol-5c0a0a?style=for-the-badge&labelColor=0d1117&color=c9a227)
+![Rank](https://img.shields.io/badge/LeetCode-1863-5c0a0a?style=for-the-badge&logo=leetcode&logoColor=c9a227&labelColor=0d1117&color=c9a227)
+![CGPA](https://img.shields.io/badge/CGPA-8.8-5c0a0a?style=for-the-badge&labelColor=0d1117&color=c9a227)
 
 </div>
 
-<br/>
+---
 
-## 🏰 &nbsp;The Realm
-
-<table>
-<tr>
-<td width="62%" valign="top">
-
-I'm an aspiring **Software Engineer** from Hyderabad with deep roots in **Data Structures & Algorithms**, **full-stack development** and **AI-driven systems**. I turn scrolls of vague requirements into shipped products, including a complete ERP delivered independently for a real client.
-
-I lead **Code Resol**, a tech community that has guided **50+ peers** through coding contests and web/AI projects. I'm also a **Capgemini Student Ambassador** and **Student Placement Coordinator** at CMR Technical Campus.
+## 🏰 &nbsp;The Lord of the Realm
 
 ```yaml
-lord:      Abhilash Chary Vadla
-seat:      CMR Technical Campus, Hyderabad
-banner:    Code Resol (Founder & Team Lead)
-studying:  B.Tech CSE · 2023–2027
+name:      Abhilash Chary Vadla
+title:     Founder & Team Lead, Code Resol (Tech Community)
+seat:      CMR Technical Campus, Hyderabad  ·  B.Tech CSE (2023–2027)
 houseWords: "Ship it. Then ship it better."
+arsenal:   [C++, Java, Python, SQL, React, TypeScript, Supabase]
+currently: Forging full-stack products, AI tools and a strong DSA arsenal
 ```
 
-</td>
-<td width="38%" valign="middle" align="center">
-
-<img src="https://avatars.githubusercontent.com/u/147909388?v=4" width="190" style="border-radius:50%" alt="Abhilash" />
-
-**Founder · Builder · Mentor**
-
-📍 Hyderabad, India
-
-</td>
-</tr>
-</table>
+I am a Computer Science undergraduate who has built **15+ projects** across ERP systems, marketplaces, AI-assisted developer tools and EdTech. I turn a client's vague scroll of requirements into a working MVP, and I have been known to rescue a laptop or two along the way. I also organize workshops and hackathons, because a kingdom is only as strong as the bannermen it trains.
 
 ---
 
-## ⚔️ &nbsp;The Great Houses
+## ⚔️ &nbsp;The Great Houses (Skills)
 
-<div align="center">
-
-| 🐺 **House of Algorithms** | 🦁 **House of the Web** | 🐉 **House of AI & Automation** |
+| 🐺 House of C++ | 🦁 House of the Web | 🐉 House of AI |
 |:---:|:---:|:---:|
-| C++ (primary) · Java · Python · C | React · TypeScript · Tailwind · Supabase · PostgreSQL · MySQL · PHP | Prompt Engineering · Lovable · Bolt.new · Google AI Studio · n8n · Streamlit · ML |
-| DSA · OOP · DBMS · OS · Networks | Vercel · Netlify · Git · GitHub | Power BI · Arduino · Automation Workflows |
+| *Primary tongue. DSA, OOP, competitive battles.* | *React, TypeScript, Supabase, Tailwind, PostgreSQL.* | *Gemini, ChatGPT, Claude, Perplexity, Lovable, Bolt.new, Google AI Studio.* |
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,java,python,mysql,react,ts,tailwind,postgres,supabase,vercel,netlify,github,git,vscode&theme=dark" />
+
+</div>
+
+**Strong subjects:** Data Structures & Algorithms · OOP · DBMS · Computer Networks · Operating Systems · Software Engineering
+
+---
+
+## 🗡️ &nbsp;Conquests (Key Projects)
+
+| Conquest | Banner | Tale of the Battle |
+|:--|:--|:--|
+| **👑 Karmik Pro** | `React` `TypeScript` `Supabase` `Leaflet` `React Query` | A role-based **hyperlocal gig marketplace**. Location-aware job discovery, Leaflet maps, distance filters, applications, ratings, earnings, Realtime chat and a rule-based recommendation engine. It earned revenue for the college and grew into my B.Tech major project. |
+| **🏛️ Virat ERP** | `React` `TypeScript` `Supabase` `PostgreSQL` `Tailwind` | Full-stack **inventory and billing ERP**. Stock validation, low-stock and expiry alerts, printable invoices, searchable bill history, real-time sync and revenue dashboards. |
+| **📜 ResolGate** | `AI-assisted EdTech` | Academic-resource repository with **AI-assisted moderation** workflows. |
+| **🧠 AlgoMind** | `AI DSA Platform` | Learning platform with **120+ problems**, problem-solving workflows and AI code review. |
+| **🔮 HyperWeb AI** | `AI Web Generator` | Turns natural-language requirements into **HTML/CSS/JS with live preview**. |
+
+> 🔗 *Pin your favourite repos above this section so visitors can click straight into the battlefield.*
+
+---
+
+## 🏆 &nbsp;Battle Record (Achievements)
+
+- 🥇 **Best Project Award** — TIP Expo 2025 (CMRTC)
+- 📜 **Best Paper Award** — Cima 2026
+- 💎 **Smart Interviews Diamond** — Global Rank 1041
+- ⚡ **LeetCode 1863** (Top 5.93%) &nbsp;·&nbsp; **CodeChef 1656**
+- 🛡️ **Winner of 10+** intra-college competitions
+- 🏰 Organized *Code to Cloud AI Edition* with **GDG Hyderabad**, plus hackathons; Executive Team member in college tech clubs
+
+---
+
+## 📊 &nbsp;The Maester's Ledger (Stats)
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Abhilashchary&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9a227&text_color=f5deb3&icon_color=8b0000&ring_color=c9a227" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhilashchary&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9a227&text_color=f5deb3" />
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python,c,react,ts,tailwind,postgres,mysql,php,supabase,vercel,netlify,git,github,arduino,vscode&perline=17&theme=dark" alt="skills"/>
-
-</div>
-
----
-
-## 🗡️ &nbsp;Conquests
-
-<div align="center">
-
-| | Conquest | Banner | The Tale |
-|:-:|:--|:--|:--|
-| 👑 | **Karmik Pro** | `React` `TypeScript` `Supabase` `Leaflet` `React Query` | Hyperlocal **gig marketplace** linking flexible workers with MSMEs and households. Geolocation job discovery, Leaflet maps, distance filters, ratings, earnings, Realtime chat and a rule-based recommender. Grew into my B.Tech major project. |
-| 🏛️ | **[Virat ERP](https://github.com/Abhilashchary/RTRP-CMRTC)** | `React` `TypeScript` `Supabase` `PostgreSQL` | Enterprise **inventory, HR and billing ERP** delivered independently for a real client. Stock validation, expiry alerts, printable invoices, real-time sync, dashboards. |
-| 🧠 | **AlgoMind** | `AI` `DSA` | AI-powered **DSA platform** with 120+ problems and code review. |
-| 🔮 | **HyperWeb AI** | `Lovable` `HTML/CSS/JS` | Turns natural-language prompts into a website with **live preview**. |
-| 📜 | **ResolGate** | `AI-moderated EdTech` | Academic-resource repository with AI-assisted approval workflows. |
-| 🎓 | **[AI/ML Dropout Predictor](https://github.com/Abhilashchary/AI-ML-DROPOUT_PREDICTOR-ORG)** | `Python` `Random Forest` | ML model that predicts **student dropout risk**. |
-| 🔋 | **BatteryBeast** | `Web` `Battery Status API` | Monitors device battery level right in the browser. |
-| 🕵️ | **Forgery Detection** | `ML` | Detects forged documents and images. |
-| 🎧 | **Mood Agent** | `AI` `Speech + Emotion` | Reads emotion and speech to recommend music. |
-
-</div>
-
-**More from the armoury:**
-[📝 BLOG_PLATFORM](https://github.com/Abhilashchary/BLOG_PLATFORM) ·
-[🛠️ DEVOPS-DAILY](https://github.com/Abhilashchary/DEVOPS-DAILY) ·
-[📰 news-app](https://github.com/Abhilashchary/news-app) ·
-[💬 chatbot_php_dictionary](https://github.com/Abhilashchary/chatbot_php_dictionary) ·
-[🌐 portfolio](https://github.com/Abhilashchary/portfolio) ·
-[📚 **All 35+ repositories →**](https://github.com/Abhilashchary?tab=repositories)
-
----
-
-## 🏆 &nbsp;Battle Record
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🎖️ Honours**
-- 🥇 Best Project Award, **TIP Expo 2025** (CMRTC)
-- 📜 Best Paper Award, **Cima 2026**
-- 🚀 **PWC Launchpad Program 2026**
-- 🤝 **Capgemini** Student Ambassador
-- 🧭 Student **Placement Coordinator**
-- ⚔️ Hackathons: **Technovanza 5.0**, **Avinya 2K25**, **MSME Hackathon 5.0**, **SIH**
-- 🏰 Organized *Code to Cloud AI Edition* with **GDG Hyderabad**
-
-</td>
-<td width="50%" valign="top">
-
-**📜 Certifications**
-- ☁️ **Salesforce Certified Agentforce Specialist**
-- 🛡️ Agentforce Champion, **Innovator 2026** badge
-- 🌐 **Cisco CCNA** track
-- 🔐 Infosys Springboard, **Cyber Security Foundations**
-- 🧩 **ServiceNow** micro-certification
-- 💎 **Smart Interviews** certified
-- 🧪 SAP Learning, ABAP basics
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧮 &nbsp;Competitive Arena
-
-<div align="center">
-
-<a href="https://leetcode.com/u/coderesol/"><img src="https://leetcard.jacoblin.cool/coderesol?theme=dark&font=Cinzel&ext=heatmap&border=0" alt="LeetCode stats" width="620"/></a>
+<img src="https://streak-stats.demolab.com?user=Abhilashchary&hide_border=true&background=0d1117&stroke=5c0a0a&ring=c9a227&fire=8b0000&currStreakLabel=c9a227&sideLabels=f5deb3&currStreakNum=f5deb3&sideNums=f5deb3&dates=8b949e" />
 
 <br/>
 
-[![CodeChef](https://img.shields.io/badge/CodeChef-abhilashchary-0a1128?style=for-the-badge&logo=codechef&logoColor=c9a227&labelColor=0a1128&color=c9a227)](https://www.codechef.com/users/abhilashchary)
-[![Codeforces](https://img.shields.io/badge/Codeforces-vadlaabhilashchary3333-0a1128?style=for-the-badge&logo=codeforces&logoColor=c9a227&labelColor=0a1128&color=c9a227)](https://codeforces.com/profile/vadlaabhilashchary3333)
-[![Smart Interviews](https://img.shields.io/badge/Smart_Interviews-237r1a05y6-0a1128?style=for-the-badge&labelColor=0a1128&color=c9a227)](https://smartinterviews.in/profile/237r1a05y6)
+<img src="https://github-profile-trophy.vercel.app/?username=Abhilashchary&theme=dark&no-frame=true&margin-w=8&column=7" />
 
 </div>
 
 ---
 
-## 📊 &nbsp;The Maester's Ledger
+## 🐦‍⬛ &nbsp;Send a Raven (Contact)
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Abhilashchary&show_icons=true&hide_border=true&bg_color=0a1128&title_color=c9a227&text_color=f5deb3&icon_color=c9a227&ring_color=c9a227&rank_icon=github" alt="stats"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhilashchary&layout=compact&hide_border=true&bg_color=0a1128&title_color=c9a227&text_color=f5deb3&langs_count=8" alt="languages"/>
-
-<img src="https://streak-stats.demolab.com?user=Abhilashchary&hide_border=true&background=0a1128&stroke=15254f&ring=c9a227&fire=c9a227&currStreakLabel=c9a227&sideLabels=f5deb3&currStreakNum=f5deb3&sideNums=f5deb3&dates=8b949e" alt="streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhilashchary&bg_color=0a1128&color=f5deb3&line=c9a227&point=ffffff&area=true&area_color=c9a227&hide_border=true&title_color=c9a227" alt="activity graph" width="100%"/>
-
-</div>
-
----
-
-## 🐦‍⬛ &nbsp;Send a Raven
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-vadlaabhilashchary3333@gmail.com-0a1128?style=for-the-badge&logo=gmail&logoColor=c9a227&labelColor=0a1128&color=c9a227)](mailto:vadlaabhilashchary3333@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-abhi___chary-0a1128?style=for-the-badge&logo=instagram&logoColor=c9a227&labelColor=0a1128&color=c9a227)](https://www.instagram.com/abhi___chary/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-The_Throne_Room-5c0a0a?style=for-the-badge&logo=googlechrome&logoColor=c9a227&labelColor=0d1117)](https://abhilashchary.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-coderesol-5c0a0a?style=for-the-badge&logo=linkedin&logoColor=c9a227&labelColor=0d1117)](https://linkedin.com/in/coderesol/)
+[![Email](https://img.shields.io/badge/Email-Send_a_Raven-5c0a0a?style=for-the-badge&logo=gmail&logoColor=c9a227&labelColor=0d1117)](mailto:vadlaabhilashchary3333@gmail.com)
 
 <br/>
 
-> *"Intelligence, not just skills, is the human edge in an AI-driven world."*
+*"When you play the game of commits, you merge or you revert."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a227,50:15254f,100:0a1128&height=110&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a227,50:5c0a0a,100:0d1117&height=120&section=footer" width="100%"/>
 
 </div>
