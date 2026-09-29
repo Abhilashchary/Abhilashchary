@@ -90,7 +90,6 @@ I am a Computer Science undergraduate who has built **15+ projects** across ERP 
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Abhilashchary&theme=dark&no-frame=true&margin-w=8&column=7" />
 
 </div>
 
