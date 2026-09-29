@@ -84,9 +84,6 @@ I am a Computer Science undergraduate who has built **15+ projects** across ERP 
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Abhilashchary&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9a227&text_color=f5deb3&icon_color=8b0000&ring_color=c9a227" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhilashchary&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9a227&text_color=f5deb3" />
-
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=Abhilashchary&hide_border=true&background=0d1117&stroke=5c0a0a&ring=c9a227&fire=8b0000&currStreakLabel=c9a227&sideLabels=f5deb3&currStreakNum=f5deb3&sideNums=f5deb3&dates=8b949e" />
